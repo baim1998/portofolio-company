@@ -11,7 +11,10 @@ const Testimoni: React.FunctionComponent<ITestimoniProps> = (props) => {
           <div>
             <p className="from-neutral-50 font-bold">Joko Widodo</p>
             <p>
-              <em>"Sangat memuaskan sekali, menarik dan mudah dipahami "</em>
+              <em>
+                quote: &quot; Sangat memuaskan sekali, menarik dan mudah
+                dipahami quote: &quot;
+              </em>
             </p>
           </div>
         </div>
@@ -21,8 +24,8 @@ const Testimoni: React.FunctionComponent<ITestimoniProps> = (props) => {
             <p className="font-bold">Megawati</p>
             <p>
               <em>
-                "Wah anak ini kalo tidak ada Purwadhika bakalan gak bisa buat
-                ini"
+                quote: &quot; Wah anak ini kalo tidak ada Purwadhika bakalan gak
+                bisa buat ini quote: &quot;
               </em>
             </p>
           </div>
@@ -38,7 +41,8 @@ const Testimoni: React.FunctionComponent<ITestimoniProps> = (props) => {
             <p className="font-bold">Marsel Widiyanto</p>
             <p>
               <em>
-                "Luar biasa sekali, patut diacungi jempol, risspect abangku"
+                quote: &quot; Luar biasa sekali, patut diacungi jempol, risspect
+                abangku quote&quot;
               </em>
             </p>
           </div>

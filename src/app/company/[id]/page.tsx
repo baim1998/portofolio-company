@@ -12,7 +12,7 @@ const DetialPage: React.FunctionComponent<IDetialPageProps> = async ({
   const data = CompanyId?.map((value: any) => {
     const { sys, fields } = value;
     return (
-      <div className="flex flex-col justify-center items-center   ">
+      <div className="flex flex-col justify-center items-center">
         <div key={sys.id}>
           <div>
             <h1 className="font-bold text-2xl pl-[650px] pt-5 xs:pr-[400px] xs:text-sm xs:text-center">
