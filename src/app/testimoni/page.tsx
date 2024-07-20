@@ -41,8 +41,8 @@ const Testimoni: React.FunctionComponent<ITestimoniProps> = (props) => {
             <p className="font-bold">Marsel Widiyanto</p>
             <p>
               <em>
-                quote: &quot; Luar biasa sekali, patut diacungi jempol, risspect
-                abangku quote&quot;
+                &quot; Luar biasa sekali, patut diacungi jempol, risspect
+                abangku &quot;
               </em>
             </p>
           </div>
